@@ -1,0 +1,38 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .background {
+    background-image: url("image.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .text-block {
+    position: absolute;
+    top: 20%;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+    width: 500px;
+  }
+
+  .btn{
+      border-radius: 50%;
+      height: 50px;
+      width: 150px;
+      background-color: yellow;
+      color: white;
+  }
+
+  .btn1{
+    border-radius: 50%;
+    height: 50px;
+    width: 150px;
+    background-color: white;
+    color: black;
+}
